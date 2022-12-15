@@ -1,1 +1,1 @@
-Link Deploy: <a href="https://playful-froyo-4a9a03.netlify.app">https://playful-froyo-4a9a03.netlify.app</a>
+Link Deploy: <a href="https://symphonious-raindrop-b6e312.netlify.app">https://symphonious-raindrop-b6e312.netlify.app</a>
